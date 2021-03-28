@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "457499401728",
+    "firebase_url": "https://minor2-d5d31.firebaseio.com",
+    "project_id": "minor2-d5d31",
+    "storage_bucket": "minor2-d5d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457499401728:android:01b95d48267a944b",
+        "android_client_info": {
+          "package_name": "com.example.minor2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457499401728-mf09us4qja3nks2c7qrisf6vefcqnni2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minor2",
+            "certificate_hash": "a1cbda7d5d8bdd029efdd7aa4f7d5ecb2a6e9de0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsJ689SdyvOsWyKVmbZaenNq9SkqkPXrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457499401728-jgss1f88ocagkh148rc8qsi6rsa1bd3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
